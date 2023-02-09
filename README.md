@@ -1,3 +1,2 @@
-# AppInventorCourses
-For kids in elementary schools.
-Including 5 projects.
+# Some python coding
+problems from leecode.
